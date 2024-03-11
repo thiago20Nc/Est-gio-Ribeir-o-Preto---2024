@@ -1,0 +1,7 @@
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\bin\Debug\Exercicio1.exe.config
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\bin\Debug\Exercicio1.exe
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\bin\Debug\Exercicio1.pdb
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\obj\Debug\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\obj\Debug\Exercicio1.exe
+C:\Users\carva\OneDrive\Documentos\Curso de Programação em C#-COMPLETO\Projetos\EstágioRibeirãoPreto2024\Exercicio1\obj\Debug\Exercicio1.pdb
